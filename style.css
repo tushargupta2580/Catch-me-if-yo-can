@@ -1,0 +1,9 @@
+#box{
+    height:10%;
+    width:10%;
+    background-color:cyan;
+    position:fixed;
+    text-align:center;
+    color:white;
+    padding-top:20px;
+}
